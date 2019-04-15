@@ -1,0 +1,88 @@
+i will probly post this to github if you do edit this plz give me credits for the txt 
+injoy or the                   RECON-NG    TIPS                           @toxic_r0b0t1k
+
+IF YOU GUYS WANT TO ADD ALL THE API_KEYS NEEDED FOR THIS PROGRAM GO TO THIS LINK 
+and remember the script to add a API KEY OS
+keys add WHATEVER_api  (API-KEY-GOES-HERE)
+
+
+worspaces (easy)
+add workspace  =========================      worspaces add (????)
+delete workspace =======================      workspaces delete (????)
+select workspace =======================      workspaces select (????)
+show workspace =========================      show workspaces 
+
+
+
+show cammands (MEDIUM)
+show 
+show banner           just shows banner   (I USE PERSONLY)
+show companies 
+show contacts
+show credenshals
+show dashboard 
+show domains
+shoow hosts
+show keys             shows api-keys    (USED WHEN FIRST STARTED OFF)
+show leaks 
+show locations 
+show modules               (USED ALOT)
+show netblocks 
+show options
+show ports
+show profiles
+show pushpins
+show repositories
+show schema
+show vulnerabliities
+
+if you want to look for a specific moudle type >>search (????)<<
+
+
+
+
+
+
+https://github.com/Raikia/Recon-NG-API-Key-Creation/blob/master/README-v4.8.3.md
+PEOPLE/LOCATION SEARCH  (HARD)
+
+MAKE A WORKSPACE 
+LOAD IPINFODB
+set source (IP-GOES-HERE)
+run
+####should show latitude/longatude     ====== (IP) - LATITUDE,-LONGATUDE 
+ 
+add locations
+TYPE LATITUDE
+TYPE LONGATUDE
+street ADRESS (STATE/city/country) or (STREET ADRESS) or (NOTHING)
+
+SEARCH (PUSHPINS)
+USE WHATEVER PUSHPIN YOU LIKE I RECOMEND USING FLICKR
+    recon/locations-pushpins/flickr
+    recon/locations-pushpins/shodan
+    recon/locations-pushpins/twitter
+    recon/locations-pushpins/youtube
+	
+load PUSHPINS/WHATEVERYOUCHOSE
+TYPE RUN
+
+
+YOU SHOULD GET A LIST LOOKING SOMETHING LIKE THIS
+LAT
+LONG
+MEDIA_URL    http://0.0.0.0./0.0.0.0
+message:   ?????????
+PROFILE_URL:  ?????????
+SCREENAME ?????@???
+SOURCE FLCIKER (or) SHODAN (or) twitter (or) youtube
+THUMB URL http://0.0.0.0/0
+TIME    1999-01-01 12:34:56
+_________________________________________________________
+
+
+
+
+
+
+
